@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "ABA",
+        "   "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:apple"
+        },
+        "B":
+        {
+            "item": "minecraft:bread"
+        }
+    },
+    
+    "result":
+    {
+        "item": "wot_armory:wot_apple_dumpling",
+        "count": 1
+    }
+}

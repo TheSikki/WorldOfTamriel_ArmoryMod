@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wot_armory",
+  "name": "World of Tamriel Armory",
+  "description": "Tamrielic Flavor in a Blocky World",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SikSikSikki"],
+  "credits": "SikSikSikki, and probably WildBamaBoy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

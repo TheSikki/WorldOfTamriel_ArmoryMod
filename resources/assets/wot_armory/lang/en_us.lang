@@ -1,0 +1,132 @@
+//Blocks
+tile.raw_ebony_block.name=Ebony Ore
+tile.raw_glass_block.name=Glass Ore
+tile.raw_mithril_block.name=Mithril Ore
+tile.raw_corundum_block.name=Corundum Ore
+tile.raw_moonstone_block.name=Moonstone Ore
+tile.raw_orichalcum_block.name=Orichalcum Ore
+tile.volcanic_ash_block.name=Volcanic Ash
+tile.volcanic_stone_formation.block.name=Volcanic Stone Formation
+tile.daedric_ash_block.name=Daedric Ash
+tile.daedric_stone_block.name=Daedric Ash Stone
+tile.daedric_cinderstone_block.name=Daedric Cinderstone
+tile.daedric_cinderstonech_block.name=Coldharbour Cinderstone
+tile.daedric_brick_motif_block.name=Daedric Brick Motif
+tile.dunmer_cobblestone_brick_block.name=Rough Dunmer Cobblestone Brick
+tile.nordic_cobblestone_brick_block.name=Rough Nordic Cobblestone Brick
+tile.northern_dwemer_pillar_block.name=Northern Dwemer Pillar
+tile.telvanni_mushroom_wall_block.name= Telvanni Mushroom Wall
+tile.telvanni_mushroom_floor_block.name= Telvanni Mushroom Floor
+
+//Armor
+item.morrow_ebony_helmet.name= Eastern Ebony Helmet
+item.morrow_ebony_chestplate.name= Eastern Ebony Chestplate
+item.morrow_ebony_greabes.name= Eastern Ebony Greaves
+item.morrow_ebony_boots.name= Eastern Ebony Boots
+
+//Item
+item.raw_ebony.name=Raw Ebony
+item.processed_ebony.name=Processed Ebony
+item.raw_glass.name=Raw Glass
+item.raw_stalhrim.name=Raw Stalhrim
+item.daedra_heart.name=Daedra Heart
+item.amulet_of_kings.name=Amulet of Kings
+item.sigil_stone.name=Descendent Sigil Stone
+item.azura_star.name=Azura's Star
+item.common_soulgem.name=Common Soul Gem
+item.lesser_soulgem.name=Lesser Soul Gem
+item.greater_soulgem.name=Greater Soul Gem
+item.petty_soulgem.name=Petty Soul Gem
+item.grand_soulgem.name=Grand Soul Gem
+item.oghma_infinium.name=Oghma Infinium
+
+//Crafting
+item.tamriel_iron_ingot.name=Iron Ingot
+item.tamriel_steel_ingot.name=Steel Ingot
+item.tamriel_ebony_ingot.name=Ebony Ingot
+item.tamriel_corundum_ingot.name=Corundum Ingot
+item.tamriel_dwarven_ingot.name=Dwemer Ingot
+item.tamriel_orichalcum_ingot.name=Orichalcum Ingot
+item.tamriel_mithril_ingot.name=Mithril Ingot
+
+//food
+item.wot_sweetroll.name=Sweetroll
+item.wot_beef_stew_name=Northern Beef Stew
+item.wot_apple_dumpling.name=Apple Dumpling
+item.wot_salmon_steak.name=Northern Salmon Steak
+
+//Tools
+//Artifacts
+item.art_chillrend.name=Chillrend
+item.art_keening.name=Keening
+item.art_fork_of_horripilation.name=Fork of Horripilation
+
+//Iron
+item.cyro_iron_sword.name=Cyrodiilic Iron Sword
+item.cyro_iron_axe.name=Cyrodiilic Iron Axe
+item.cyro_iron_pickaxe.name=Cyrodiilic Iron Pickaxe
+item.cyro_iron_hoe.name=Cyrodiilic Iron Hoe
+item.cyro_iron_shovel.name=Cyrodiilic Iron Spade
+
+//Steel
+item.cyro_steel_sword.name=Cyrodiilic Steel Sword
+item.cyro_steel_axe.name=Cyrodiilic Steel Axe
+item.cyro_steel_pickaxe.name=Cyrodiilic Steel Pickaxe
+item.cyro_steel_hoe.name=Cyrodiilic Steel Hoe
+item.cyro_steel_shovel.name=Cyrodiilic Steel Spade
+
+//Mithril
+item.mithril_sword.name=Mithril Sword
+item.mithril_axe.name=Mithril Axe
+item.mithril_pickaxe.name=Mithril Pickaxe
+item.mithril_hoe.name=Mithril Hoe
+item.mithril_shovel.name=Mithril Spade
+
+//Daedric
+item.daedric_longsword.name=Eastern Daedric Longsword
+item.daedric_katana.name=Eastern Daedric Katana
+item.daedric_axe.name=Eastern Daedric Axe
+item.daedric_pickaxe.name=Eastern Daedric Pickaxe
+item.daedric_shovel.name=Eastern Daedric Spade
+item.daedric_hoe.name=Eastern Daedric Hoe
+
+//Dwarven
+item.dwarven_sword.name=Eastern Dwemer Sword
+item.dwarven_axe.name=Eastern Dwemer Axe
+item.dwarven_pickaxe.name=Eastern Dwemer Pickaxe
+item.dwarven_mace.name=Eastern Dwemer Mace
+item.dwarven_hoe.name=Eastern Dwemer Hoe
+item.dwarven_shovel.name=Eastern Dwemer Spade
+
+//Ebony
+item.ebony_axe.name=Eastern Ebony Axe
+item.ebony_broadsword.name=Eastern Ebony Broadsword
+item.ebony_mace.name=Eastern Ebony Mace
+item.ebony_pickaxe.name=Eastern Ebony Pickaxe
+item.ebony_shovel.name=Eastern Ebony Spade
+item.ebony_hoe.name=Eastern Ebony Hoe
+
+//Orcish
+item.orcish_sword.name=Orcish Sword
+item.orcish_shovel.name=Orcish Spade
+item.orcish_hoe.name=Orcish Hoe
+item.orcish_axe.name=Orcish Axe
+item.orcish_pickaxe.name=Orcish Pickaxe
+
+//Elven
+item.elven_axe.name=Northern Elven Axe
+item.elven_sword.name=Northern Elven Sword
+item.elven_pickaxe.name=Northern Elven Pickaxe
+item.elven_shovel.name=Northern Elven Spade
+item.elven_hoe.name=Northern Elven Hoe
+
+//Glass
+item.glass_broadsword.name=Eastern Glass Broadsword
+item.glass_axe.name=Eastern Glass Axe
+item.glass_pickaxe.name=Eastern Glass Pickaxe
+item.glass_shovel.name=Eastern Glass Spade
+item.glass_hoe.name=Eastern Glass Hoe
+
+//Special
+item.dark_seducer_sword.name=Dark Seducer Sword
+item.golden_saint_sword.name=Golden Saint Sword

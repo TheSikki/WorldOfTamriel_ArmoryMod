@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "wot_armory:items/lesser_soulgem"
+   }
+}

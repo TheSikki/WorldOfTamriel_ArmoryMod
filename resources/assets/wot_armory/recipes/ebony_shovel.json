@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " E ",
+        " G ",
+        " G "
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        "E":
+        {
+            "item": "wot_armory:tamriel_ebony_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "wot_armory:ebony_shovel",
+        "count": 1
+    }
+}

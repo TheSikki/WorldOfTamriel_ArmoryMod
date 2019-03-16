@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "wot_armory:blocks/dunmer_cobblestone_brick_block"
+   }
+}

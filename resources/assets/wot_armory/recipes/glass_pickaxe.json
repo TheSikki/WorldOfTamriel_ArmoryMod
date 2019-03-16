@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        " IG",
+        " I "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "G":
+        {
+            "item": "wot_armory:raw_glass"
+        }
+    },
+    
+    "result":
+    {
+        "item": "wot_armory:glass_axe",
+        "count": 1
+    }
+}

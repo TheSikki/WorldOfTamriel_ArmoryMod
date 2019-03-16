@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RR ",
+        "RR ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "wot_armory:raw_ebony"
+        }
+    },
+    
+    "result":
+    {
+        "item": "wot_armory:processed_ebony",
+        "count": 1
+    }
+}

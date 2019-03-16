@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "wot_armory:items/dwarven_axe"
+   }
+}

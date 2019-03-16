@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " G ",
+        " G ",
+        " I "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "G":
+        {
+            "item": "wot_armory:raw_glass"
+        }
+    },
+    
+    "result":
+    {
+        "item": "wot_armory:glass_broadsword",
+        "count": 1
+    }
+}
